@@ -1,4 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tiaan Pouwels=====================================================================================================================================Computer Science Student------------------------I am currently a final year Computer Science Student at the University of Pretoria* 🌍  I'm based in Pretoria* ✉️  You can contact me at [Tiaansteph@gmail.com](mailto:Tiaansteph@gmail.com)* 🧠  I'm learning Devops
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tiaan Pouwels ===================================================================================================================================== 
+Computer Science Student
+------------------------
+I am currently a final year Computer Science Student at the University of Pretoria
+* 🌍  I'm based in Pretoria
+* ✉️  You can contact me at [Tiaansteph@gmail.com](mailto:Tiaansteph@gmail.com)
+* 🧠  I'm learning Devops
 
 ### Skills
 
